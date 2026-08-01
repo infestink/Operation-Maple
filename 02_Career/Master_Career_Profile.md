@@ -2,13 +2,13 @@
 
 ## Personal Information
 
-Name:
+Name: Dobromir Milev
 
-Current Position:
+Current Position: Senior Test Engineer / Verification Product Owner
 
-Location:
+Location: Sofia, Bulgaria
 
-Languages:
+Languages: Bulgarian, English
 
 ---
 
