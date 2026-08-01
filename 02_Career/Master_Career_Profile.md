@@ -113,14 +113,15 @@ Validate infotainment software before customer release through structured system
 
 ## Technologies
 
-- CANoe
-- CAN
+- PROVEtech
+- CAN/LIN/Ethernet
 - Python
 - Jira
 
 ## Projects
 
-(To be expanded)
+MFA2 MOPF infotainment systems.
+MFA2 MOPF refers to the mid-life facelift (Modellpflege) for Mercedes-Benz compact cars built on the second-generation Modular Front Architecture (MFA2) platform—including the A-Class, B-Class, CLA, GLA, GLB, EQA, and EQB—introduced primarily between late 2022 and 2023.
 
 ## Key Achievements
 
