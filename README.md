@@ -1,5 +1,19 @@
-# Operation-Maple
+# 🍁 Operation Maple
 
-Repository for planning and documents for Operation Maple.
+Operation Maple is the long-term family relocation strategy for our family.
 
-This repo contains folders for strategy, career, immigration, finance, and city research.
+Mission:
+
+Build a safe, stable and fulfilling life in Canada without compromising our family values.
+
+Started:
+
+August 2026
+
+Target relocation:
+
+2027–2028
+
+Current Phase:
+
+Project 001 – Can We Actually Move?
