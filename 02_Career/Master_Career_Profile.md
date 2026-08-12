@@ -1,227 +1,1454 @@
 # Master Career Profile
 
-## Personal Information
-
-Name: Dobromir Milev
-
-Current Position: Senior Test Engineer / Verification Product Owner
-
-Location: Sofia, Bulgaria
-
-Languages: Bulgarian, English
-
----
-
-## Professional Identity
-
-(To be defined)
+> **Purpose:** Single source of truth for Dobromir Milev's Canadian career positioning, CVs, LinkedIn profile, applications and interview preparation.
+>
+> **Status:** Living document — continuously updated with new achievements, metrics, technologies, projects and evidence.
+>
+> **Target market:** Canada, primarily Ontario / Greater Toronto Area.
+>
+> **Primary target:** Senior QA Automation / Test Automation / Verification Engineering.
+>
+> **Secondary targets:** SDET, Quality Engineering, QA Lead, Test Lead, Technical Product Owner, Automotive Software Verification.
 
 ---
 
-## Career Story
+# 1. Personal Information
 
-(To be written)
+**Name:** Dobromir Milev
+**Current Location:** Sofia, Bulgaria
+**Target Location:** Ontario, Canada
+**Languages:** Bulgarian, English
 
----
-# Career Timeline
-
----
-
-# MBition Sofia EOOD
-
-**Period**
-September 2022 – Present
-
-**Role**
-Senior Test Engineer
-Verification Product Owner (acting Product Owner responsibilities)
-
-**Domain**
-Premium Automotive Software – Interior Sensing / Driver Monitoring / Vehicle Verification
-
-## Mission
-
-Responsible for defining, coordinating and improving the verification strategy for embedded automotive software used in Mercedes-Benz vehicles.
-
-## Core Responsibilities
-
-- Define verification scope and testing strategy
-- Plan and coordinate verification activities
-- Prioritize validation work together with development teams
-- Drive Product Owner activities for verification topics
-- Design automated test solutions
-- Improve verification efficiency
-- Perform system and integration validation
-- Review requirements and define test coverage
-- Analyze defects and support root cause investigation
-- Coordinate releases and verification readiness
-- Support cross-functional teams
-
-## Technologies
-
-- Vector CANoe
-- CAPL
-- Python
-- Git
-- Jira
-- Codebeamer
-- DTS Monaco
-- NI Replay
-- Automotive Ethernet
-- CAN
-- LIN
-
-## Projects
-
-(To be expanded)
-
-## Key Achievements
-
-(To be expanded)
+**Current Position:** Senior Test Engineer / Verification Product Owner
+**Current Company:** MBition Sofia EOOD — Mercedes-Benz Group
+**Current Domain:** Automotive Software / Embedded Systems / Vehicle Verification
 
 ---
 
-# Visteon Electronics Bulgaria
+# 2. Professional Identity
 
-**Period**
+## Primary Positioning
 
-May 2021 – September 2022
+**Senior QA Automation & Verification Engineer | Technical Product Owner | Automotive Software | Python • CAPL • CANoe | Technical Leadership**
 
-**Role**
+## Core Professional Identity
 
-System Validation Engineer
+Quality Engineering professional with 7+ years of experience across software testing, verification, automation and engineering, with a strong specialization in automotive embedded software.
 
-**Domain**
+Combines hands-on technical expertise in **Python, CAPL, CANoe, HIL testing and automotive communication systems** with experience in **verification ownership, Product Ownership, technical leadership, process improvement and team development**.
 
-Automotive Infotainment
+Progressed from hands-on automation and validation engineering into broader responsibility for verification strategy, release readiness, quality processes, team coordination and Product Owner activities.
 
-## Mission
+## Professional Differentiator
 
-Validate infotainment software before customer release through structured system testing and defect analysis.
+The strongest combination of the profile is:
 
-## Core Responsibilities
+**Engineering + Quality + Leadership + Product Ownership**
 
-- Manual validation
-- Test automation
-- Requirement analysis
-- Test planning
-- Test case design
-- Vehicle testing
-- Bench testing
-- Log analysis
-- Bug reporting
+### Engineering
 
-## Technologies
+Builds automation, solves complex test-environment problems and works directly with automotive software and hardware.
 
-- PROVEtech
-- CAN/LIN/Ethernet
-- Python
-- Jira
+### Quality
 
-## Projects
+Understands requirements, verification strategy, test coverage, regression, defect investigation, release validation and quality metrics.
 
-MFA2 MOPF infotainment systems.
-MFA2 MOPF refers to the mid-life facelift (Modellpflege) for Mercedes-Benz compact cars built on the second-generation Modular Front Architecture (MFA2) platform—including the A-Class, B-Class, CLA, GLA, GLB, EQA, and EQB—introduced primarily between late 2022 and 2023.
+### Leadership
 
-## Key Achievements
+Leads and mentors engineers, distributes technical ownership, improves team processes and manages capacity.
 
-(To be expanded)
+### Product Ownership
+
+Works with planning, prioritization, targets, KPIs, stakeholders, requirements and delivery decisions.
+
+## Core Statement
+
+> **I don't just execute tests. I build the automation, verification processes and team structures that make software quality scalable.**
 
 ---
 
-# TESY Ltd.
+# 3. Career Positioning for Canada
 
-**Period**
+## Primary Target Roles
 
-September 2018 – May 2021
+1. Senior QA Automation Engineer
+2. Senior Test Automation Engineer
+3. Automation Test Engineer
+4. QA Automation Engineer
+5. SDET
+6. Senior Software Test Engineer
+7. Senior Verification Engineer
+8. Quality Engineering Engineer
 
-**Role**
+## Secondary Target Roles
 
-Automation Engineer
+1. QA Lead
+2. Test Lead
+3. Quality Engineering Lead
+4. Verification Lead
+5. Senior QA Engineer
 
-**Domain**
+## Product / Leadership Target Roles
 
-Industrial Automation
+1. Technical Product Owner
+2. Product Owner — Engineering
+3. Product Owner — Quality / Verification
+4. Technical Delivery / Engineering roles
 
-## Mission
+## Automotive Target Roles
 
-Design and implement industrial automation solutions that improve production efficiency and reliability.
+1. Automotive Software Verification Engineer
+2. Embedded Software Test Engineer
+3. Automotive QA Automation Engineer
+4. ECU Validation Engineer
+5. Vehicle Software Verification Engineer
 
-## Core Responsibilities
+## Positioning Rules
 
-- PLC programming
-- Commissioning
-- Simulation
-- Industrial machinery automation
-- Production optimization
-- Troubleshooting
-- Emergency diagnostics
+Do NOT position the candidate as:
 
-## Technologies
+* Generic Manual QA Tester
+* Generic Software Tester
+* Pure Project Manager
+* Traditional Product Manager
+* Automotive tester looking for any job
 
-- Siemens PLC
-- TIA Portal
-- WinCC
+Primary positioning should remain:
 
-## Projects
-
-(To be expanded)
-
-## Key Achievements
-
-(To be expanded)
-
----
-
-## Achievement Library
-Problem
-Verification reporting takes 6 hours every release.
-↓
-Action
-Developed Python automation that parses CANoe outputs and generates reports.
-↓
-Result
-Execution reduced to 40 minutes.
-↓
-Business Value
-Engineers spend significantly less time on repetitive reporting and more on validation.
+> **Senior QA Automation / Verification Engineer with Technical Product Ownership and Team Leadership experience.**
 
 ---
 
-## Leadership Experience
+# 4. Career Story
+
+Dobromir began his engineering career in industrial automation, developing practical experience in automation systems, PLC programming, commissioning, simulation, troubleshooting and production optimization.
+
+He transitioned into automotive software validation, first working on infotainment systems at Visteon and later joining MBition, part of the Mercedes-Benz Group.
+
+At MBition, his responsibilities expanded from hands-on testing and automation into broader verification ownership. He developed expertise in CANoe, CAPL, Python, HIL environments, automotive communication and complex ECU validation.
+
+Over time, he moved beyond executing verification activities and began improving how verification itself was performed: automating repetitive activities, improving reporting, increasing test-bench utilization, improving planning and traceability, and introducing structured team capacity management.
+
+He subsequently took on acting Product Owner responsibilities and technical leadership responsibilities for a team of five engineers.
+
+The career progression can therefore be represented as:
+
+**Automation Engineering → System Validation → QA/Test Automation → Senior Verification Engineering → Technical Leadership → Verification Product Ownership**
+
+The long-term professional direction is toward roles combining:
+
+**Quality Engineering + Automation + Technical Leadership + Product Ownership**
 
 ---
 
-## Technical Expertise
+# 5. Career Timeline
 
 ---
 
-## Product Ownership
+## MBition Sofia EOOD — Mercedes-Benz Group
+
+**Period:** September 2022 – Present
+
+**Current Role:** Senior Test Engineer / Verification Product Owner
+
+**Domain:** Premium Automotive Software — Interior Sensing / Driver Monitoring / Vehicle Verification
+
+### Mission
+
+Define, coordinate and continuously improve verification activities for embedded automotive software used in Mercedes-Benz vehicles.
+
+### Scope
+
+* 7+ years overall QA/testing experience
+* 4 years CAPL
+* 4 years CANoe
+* 2 years Python
+* Team leadership / mentoring of 5 engineers
+* 2 supported projects/products
+* 3rd project/product expected to start
+* Weekly software release validation
+* Additional `.1` releases
+* Multiple ECU variants
+* Multiple vehicle/carlines
+* Multi-ECU HIL validation
+* Complex automated verification environment
+
+### Core Responsibilities
+
+* Define verification scope and testing strategy.
+* Plan and coordinate verification activities.
+* Prioritize validation activities together with development teams.
+* Drive Product Owner activities for verification topics.
+* Design and implement automated test solutions.
+* Improve verification efficiency.
+* Perform system and integration validation.
+* Review requirements and define test coverage.
+* Analyze defects and support root-cause investigation.
+* Coordinate releases and verification readiness.
+* Support cross-functional engineering teams.
+* Lead and mentor QA/Test Engineers.
+* Distribute technical ownership within the team.
+* Improve QA and verification processes.
+* Improve test reporting and management visibility.
+* Support planning, prioritization and KPI definition.
+* Drive continuous improvement activities.
+
+### Technologies
+
+#### Programming / Automation
+
+* Python
+* CAPL
+* Test Automation
+* Data Processing
+* Automated Reporting
+* API / REST
+* Automation Scripts
+
+#### Automotive
+
+* Vector CANoe
+* CAN
+* LIN
+* Automotive Ethernet
+* ECU Validation
+* HIL Testing
+* NI Replay
+* Vector Tooling
+* ECU Configuration
+* Variant Coding
+
+#### Engineering / Management
+
+* Git
+* Jira
+* Codebeamer
+* STARC
+* Test Management X
+* Excel
+* REST APIs
+* CANoe HTML Reports
 
 ---
 
-## Soft Skills
+# 6. MBition — Key Achievements
+
+## Achievement 01 — Automated ECU Flashing, Variant Coding and Basic Validation
+
+### Problem
+
+ECU flashing, variant coding and basic functionality testing were previously performed manually.
+
+### Action
+
+Contributed to the development and implementation of automation covering the previously manual activities.
+
+### Result
+
+Approximately **4 hours of manual effort saved per ECU variant**.
+
+The environment contains **more than four ECU variants**, creating significant recurring efficiency gains.
+
+### Market Value
+
+Demonstrates:
+
+* Test automation
+* Engineering efficiency
+* Process automation
+* Automotive software knowledge
+* Quantifiable business impact
+
+### CV-ready version
+
+> Automated ECU flashing, variant coding and basic functionality validation, eliminating repetitive manual execution and saving approximately 4 hours per ECU variant across a multi-variant validation environment.
+
+### Additional Metrics
+
+* Exact number of ECU variants: Low, Mid, High and High++ computing power variants
+* Exact executions per release: **[TBD]**
+* Automated execution duration: **[TBD]**
+* Total annual hours saved: **[TBD]**
 
 ---
 
-## Metrics
+# 7. Achievement 02 — Automated Verification Reporting
+
+### Problem
+
+Verification reporting required significant manual effort to collect results from testers, process the information and prepare management-readable reports.
+
+### Original Effort
+
+Approximately **6 hours per release**.
+
+### Action
+
+Developed Python-based automation that parses CANoe outputs and transforms test results into structured, readable verification reports.
+
+### Result
+
+Reporting execution reduced from approximately:
+
+**6 hours → 40 minutes**
+
+Equivalent to approximately **89% reduction in reporting time**.
+
+### Business Impact
+
+* Reduced repetitive reporting work.
+* Improved management visibility.
+* Standardized information presentation.
+* Increased time available for engineering and validation.
+* Created a repeatable release-reporting process.
+
+### CV-ready version
+
+> Developed Python-based automated verification reporting that transformed CANoe execution outputs into management-ready quality reports, reducing reporting effort from approximately 6 hours to 40 minutes per release (~89% reduction).
 
 ---
 
-## Interview Stories
+# 8. Achievement 03 — Eight Identical ECUs on a Single Test Bench
+
+### Problem
+
+The team needed to operate multiple identical ECUs simultaneously on a single test bench.
+
+The existing environment did not support the required configuration.
+
+### Action
+
+Worked with the team to develop the technical solution enabling **8 identical ECUs to operate simultaneously on one bench**.
+
+Key challenges included:
+
+* CANoe configuration
+* ECU addressing/configuration
+* Test-environment architecture
+* Relay control
+* Main power-supply operation
+* Multi-ECU coordination
+
+### Result
+
+Successfully enabled simultaneous operation of 8 identical ECUs on a single test bench.
+
+### Significance
+
+This was a first-of-its-kind capability within the team's environment.
+
+### CV-ready version
+
+> Led the technical implementation enabling 8 identical ECUs to operate simultaneously on a single test bench, resolving complex CANoe configuration, relay-control and power-management challenges and increasing validation infrastructure capacity.
+
+### Metrics to Determine
+
+* Previous maximum ECUs per bench: **[TBD]**
+* Testing throughput improvement: **[TBD]**
+* Execution-time reduction: **[TBD]**
+* Implementation duration: **[TBD]**
+* Number of engineers involved: **[TBD]**
 
 ---
+
+# 9. Achievement 04 — Advanced CPU / Ethernet Stress Testing
+
+### Problem
+
+Standard functional and regression testing was not sufficient to expose certain software stability problems under extreme system load.
+
+### Action
+
+Developed a testing approach that:
+
+1. Stressed CPU cores individually.
+2. Simultaneously generated high-volume Ethernet traffic.
+3. Observed software behaviour under combined resource and communication stress.
+4. Used the resulting behaviour to identify software instability.
+
+### Result
+
+Exposed significant software instability that was not apparent under standard testing conditions.
+
+### Technical Significance
+
+Demonstrates:
+
+* Advanced test design
+* Systems thinking
+* Performance/stress testing
+* Embedded software understanding
+* Failure-mode exploration
+* Root-cause investigation capability
+
+### CV-ready version
+
+> Developed an advanced stress-testing approach combining core-level CPU load with high-volume Ethernet traffic, exposing previously undetected software stability issues under extreme system-load conditions.
+
+### Additional Evidence Required
+
+* Exact failure mode: **[TBD]**
+* Whether defect was fixed: **[TBD]**
+* Reproducibility: **[TBD]**
+* Automated/reusable implementation: **[TBD]**
+
+---
+
+# 10. Achievement 05 — Verification Planning and Traceability Improvement
+
+### Problem
+
+The verification planning and execution process lacked sufficient visibility, traceability and structure.
+
+It was difficult to clearly determine:
+
+* What had been requested.
+* What was planned.
+* What was currently being tested.
+* What was coming next.
+* Who was responsible.
+* What the execution status was.
+
+### Action
+
+Improved the planning and execution process by introducing clearer visibility and traceability of verification requests, planned activities and execution status.
+
+### Result
+
+Verification work became significantly more visible and traceable.
+
+The team can better track:
+
+**Request → Plan → Execution → Result → Follow-up**
+
+### CV-ready version
+
+> Improved verification planning and execution processes by introducing greater visibility and traceability of testing requests, planned activities and execution status across the team.
+
+### Metrics
+
+* Number of requests/releases tracked: **[TBD]**
+* Tools used: **[TBD]**
+* Previous planning cycle: **[TBD]**
+* Current planning cycle: **[TBD]**
+
+---
+
+# 11. Achievement 06 — DHARA End-to-End Testing Initiative
+
+### Description
+
+DHARA is an end-to-end testing initiative designed to enable complex verification workflows to be executed through a single-click process.
+
+### Ownership
+
+This is a **team achievement**, not an individual achievement.
+
+Dobromir is a contributor/responsible team member rather than the sole owner.
+
+### Professional Positioning
+
+> Core contributor to DHARA, an end-to-end verification initiative designed to enable single-click execution of complex testing workflows.
+
+### Evidence Required
+
+* Personal technical responsibility: **[TBD]**
+* Technologies: **[TBD]**
+* Components personally implemented: **[TBD]**
+* Current automation scope: **[TBD]**
+* Current execution coverage: **[TBD]**
+
+---
+
+# 12. Achievement 07 — 50/30/20 Team Capacity Framework
+
+### Problem
+
+Team capacity needed to balance delivery/testing work with continuous improvement and maintenance.
+
+### Action
+
+Introduced a weekly capacity-allocation framework:
+
+* **50%** — planned testing activities
+* **30%** — improvement, automation and development activities
+* **20%** — maintenance and high-priority / high-impact activities
+
+### Result
+
+Created an explicit framework for balancing:
+
+**Delivery + Improvement + Operational Responsiveness**
+
+### Leadership Value
+
+Demonstrates:
+
+* Capacity management
+* Prioritization
+* Resource allocation
+* Continuous improvement
+* Team leadership
+* Product Owner mindset
+
+### CV-ready version
+
+> Introduced a 50/30/20 team capacity framework allocating weekly engineering capacity across planned testing, continuous improvement/automation, and maintenance or high-priority activities.
+
+---
+
+# 13. Achievement 08 — Test Video Coverage Tracking
+
+### Problem
+
+The team needed reliable visibility into whether test cases had appropriate video evidence across different carlines.
+
+### Action
+
+Created an Excel-based centralized tracker for test-case video coverage.
+
+The tracker identifies:
+
+* Test case
+* Carline
+* Existing video
+* Multiple videos where applicable
+* Coverage gaps
+
+### Result
+
+Created centralized visibility of test-asset coverage and made missing video evidence easier to identify.
+
+### CV-ready version
+
+> Created a centralized test-asset tracking solution providing visibility into test-case video coverage across multiple carlines and enabling the team to identify coverage gaps.
+
+---
+
+# 14. Achievement 09 — Home Office Planning Process
+
+### Problem
+
+Team members needed better visibility into office availability and potential resource gaps.
+
+### Action
+
+Introduced a Friday planning process where team members record their expected home-office/office schedule for the following period.
+
+### Result
+
+Improved visibility of team availability and reduced uncertainty around office attendance.
+
+### CV-ready version
+
+> Introduced a lightweight team availability-planning process that improved visibility of office/home-office schedules and helped prevent unexpected resource gaps.
+
+---
+
+# 15. Leadership Experience
+
+## Team Size
+
+**5 engineers directly led / mentored**
+
+## Leadership Responsibilities
+
+* Technical coordination
+* Work allocation
+* Technical ownership
+* Mentoring
+* Capability development
+* Process improvement
+* Planning
+* Prioritization
+* Code review
+* Knowledge sharing
+* Team organization
+* Continuous improvement
+* Supporting onboarding
+
+### Leadership Philosophy
+
+The objective is not simply to distribute tasks.
+
+The objective is to create a team where engineers:
+
+* understand ownership,
+* develop technical capability,
+* contribute to automation,
+* improve processes,
+* understand priorities,
+* and can operate independently.
+
+### Evidence
+
+* 50/30/20 capacity framework
+* Home-office planning
+* Video coverage tracking
+* Technical ownership distribution
+* Automation responsibilities
+* Process improvement
+* Team mentoring
+
+### Metrics to Establish
+
+* Leadership duration: **[TBD]**
+* Number of engineers mentored: **5**
+* Number progressed toward independent ownership: **[TBD]**
+* Number of code reviews: **[TBD]**
+* Number of onboarding activities: **[TBD]**
+
+---
+
+# 16. Product Ownership Experience
+
+## Current Position
+
+Verification Product Owner / acting Product Owner responsibilities.
+
+## Product Ownership Responsibilities
+
+* Verification scope
+* Prioritization
+* Planning
+* Requirements clarification
+* Stakeholder communication
+* Release readiness
+* Quality decisions
+* Verification targets
+* KPI discussions
+* Risk visibility
+* Cross-functional coordination
+
+## Product Owner Philosophy
+
+Verification should not operate as an isolated testing function.
+
+It should be connected to:
+
+**Requirements → Risk → Planning → Execution → Quality → Release**
+
+## Key Product Ownership Initiative
+
+Repeatedly pushed for:
+
+* Clear planning
+* Clear targets
+* Defined KPIs
+* Better visibility
+* Traceability
+* Predictable execution
+
+### Evidence Required
+
+* Specific KPI examples: **[TBD]**
+* Planning process before/after: **[TBD]**
+* Stakeholder groups: **[TBD]**
+* Decisions with measurable impact: **[TBD]**
+
+---
+
+# 17. Technical Expertise
+
+## Programming
+
+### Python
+
+**Experience:** 2 years
+
+Use cases:
+
+* Test automation
+* Data processing
+* Report generation
+* CANoe result parsing
+* Automation utilities
+* API interaction
+* Excel/data processing
+
+### CAPL
+
+**Experience:** 4 years
+
+Use cases:
+
+* CANoe test automation
+* Automotive communication
+* ECU validation
+* Test functions
+* Test environment control
+
+---
+
+# 18. Automotive Testing
+
+### CANoe
+
+**Experience:** 4 years
+
+### Automotive Communication
+
+* CAN
+* LIN
+* Automotive Ethernet
+
+### Validation
+
+* ECU validation
+* HIL testing
+* Functional testing
+* System testing
+* Integration testing
+* Regression testing
+* Stress testing
+* Requirements verification
+* Defect investigation
+* Release validation
+
+### Infrastructure
+
+* NI Replay
+* Vector tools
+* Test benches
+* Multi-ECU environments
+* Relay-controlled power systems
+* ECU configuration
+* Variant coding
+
+---
+
+# 19. QA / Quality Engineering
+
+Core capabilities:
+
+* Test strategy
+* Test planning
+* Test design
+* Requirement analysis
+* Test coverage
+* Functional testing
+* Integration testing
+* System testing
+* Regression testing
+* Stress testing
+* Defect management
+* Root-cause investigation
+* Release validation
+* Quality reporting
+* Verification metrics
+* Test traceability
+* Test automation
+* Process improvement
+
+---
+
+# 20. Engineering Tools
+
+* Git
+* Jira
+* Codebeamer
+* STARC
+* Test Management X
+* Excel
+* CANoe
+* NI Replay
+* DTS Monaco
+* Vector tooling
+* REST APIs
+* CANoe HTML reporting
+
+---
+
+# 21. Previous Experience — Visteon Electronics Bulgaria
+
+**Period:** May 2021 – September 2022
+
+**Role:** System Validation Engineer
+
+**Domain:** Automotive Infotainment
+
+### Mission
+
+Validate infotainment software before customer release through structured system testing, automation and defect analysis.
+
+### Responsibilities
+
+* Manual validation
+* Test automation
+* Requirement analysis
+* Test planning
+* Test case design
+* Vehicle testing
+* Bench testing
+* Log analysis
+* Bug reporting
+
+### Technologies
+
+* PROVEtech
+* CAN
+* LIN
+* Ethernet
+* Python
+* Jira
+
+### Project
+
+MFA2 MOPF infotainment systems covering Mercedes-Benz compact-car platforms.
+
+### Key Achievements
+
+**[TBD — achievements to be extracted]**
+
+---
+
+# 22. Previous Experience — TESY Ltd.
+
+**Period:** September 2018 – May 2021
+
+**Role:** Automation Engineer
+
+**Domain:** Industrial Automation
+
+### Mission
+
+Design and implement industrial automation solutions improving production efficiency, reliability and operational stability.
+
+### Responsibilities
+
+* PLC programming
+* Commissioning
+* Simulation
+* Industrial machinery automation
+* Production optimization
+* Troubleshooting
+* Emergency diagnostics
+
+### Technologies
+
+* Siemens PLC
+* TIA Portal
+* WinCC
+
+### Projects
+
+**[TBD — projects to be extracted]**
+
+### Key Achievements
+
+**[TBD — achievements to be extracted]**
+
+---
+
+# 23. Achievement Summary
+
+| Achievement                                   | Evidence                                   | Current Strength |
+| --------------------------------------------- | ------------------------------------------ | ---------------- |
+| ECU flashing / coding / basic-test automation | ~4 hours saved per ECU variant             | Very High        |
+| Automated reporting                           | 6 hours → 40 minutes                       | Very High        |
+| 8 identical ECUs on one bench                 | First capability in team environment       | Very High        |
+| CPU + Ethernet stress testing                 | Exposed software instability               | Very High        |
+| Verification planning improvement             | Improved traceability and visibility       | High             |
+| 50/30/20 capacity framework                   | Team capacity management                   | High             |
+| 5 engineers led/mentored                      | Direct leadership                          | High             |
+| DHARA                                         | End-to-end single-click testing initiative | High             |
+| Video coverage tracker                        | Multi-carline test-asset visibility        | Medium           |
+| Home-office planning                          | Team availability visibility               | Medium           |
+
+---
+
+# 24. Quantified Career Metrics
+
+## Confirmed
+
+* **7+ years** QA/testing experience
+* **4 years** CAPL
+* **4 years** CANoe
+* **2 years** Python
+* **5 engineers** led/mentored
+* **2 projects/products** currently supported / historically supported in current context
+* **3rd project/product** expected to start
+* **Weekly software releases**
+* Additional `.1` releases
+* **~4 hours saved per ECU variant** through automation
+* **6 hours → 40 minutes** reporting reduction
+* **~89% reduction** in reporting time
+* **8 identical ECUs** simultaneously enabled on a single test bench
+* **4+ ECU variants** involved in automation saving
+
+## Metrics Still Required
+
+* Total number of automated test cases/functions
+* Total number of test cases worked with
+* Exact ECU variant count
+* Annual number of release validations
+* Total annual engineering hours saved
+* Previous vs current test execution duration
+* Previous vs current bench throughput
+* Exact number of carlines
+* Exact number of ECUs supported
+* Number of automated Python tools/scripts
+* Number of CANoe/CAPL automation functions
+* Number of engineers mentored to independent ownership
+* Reporting consumers/stakeholders
+* Number of management reports generated
+* Number of test requests/releases tracked
+* DHARA automation coverage
+* Visteon achievements
+* TESY achievements
+
+---
+
+# 25. Certifications & Education
+
+## Education
+
+**Master's Degree — Automation Engineering / Siemens PLC Technologies**
+
+Technical University of Varna
+Graduated: 2018
 
 ## Certifications
 
+* ISTQB Certified Tester
+* SAFe 6 Scrum Master
+
+### Additional Training
+
+**[TBD]**
+
 ---
 
-## Awards
+# 26. Professional Strengths
+
+## Technical
+
+* Test automation
+* Automotive software verification
+* System-level testing
+* Embedded systems
+* CANoe / CAPL
+* Python
+* HIL testing
+* Complex test environments
+* Stress testing
+* Data processing
+* Reporting automation
+
+## Engineering
+
+* Systems thinking
+* Problem solving
+* Root-cause investigation
+* Automation design
+* Process optimization
+* Technical troubleshooting
+
+## Leadership
+
+* Team leadership
+* Mentoring
+* Capacity planning
+* Prioritization
+* Technical ownership
+* Process improvement
+
+## Product
+
+* Verification Product Ownership
+* Planning
+* Prioritization
+* KPI definition
+* Stakeholder management
+* Release readiness
+* Quality decision-making
 
 ---
 
-## References
+# 27. Career Differentiators
+
+The strongest differentiators to emphasize in Canadian applications:
+
+### 1. Automation + Automotive Systems
+
+Not only writing test scripts, but understanding the ECU, communication, test bench and software environment.
+
+### 2. Hands-on + Leadership
+
+Still technically involved while leading five engineers.
+
+### 3. Quality + Product
+
+Understands both how to test software and how verification contributes to product delivery.
+
+### 4. Quantifiable Automation Impact
+
+Examples:
+
+* ~4 hours saved per ECU variant
+* ~89% reporting-time reduction
+
+### 5. Complex Engineering Problems
+
+Successfully enabled:
+
+**8 identical ECUs → one test bench**
+
+### 6. Advanced Testing Mindset
+
+Uses deliberate system stress to expose failures that conventional testing can miss.
+
+### 7. Process Ownership
+
+Does not accept inefficient processes as fixed constraints; actively redesigns them.
 
 ---
 
-## Notes
+# 28. Canadian Market Development Gaps
+
+These are development areas, not weaknesses to hide.
+
+## Priority 1 — Modern Web Automation
+
+Develop demonstrable hands-on capability with:
+
+* Playwright
+* Pytest
+* Selenium
+* UI automation architecture
+
+## Priority 2 — API Automation
+
+Strengthen:
+
+* REST API testing
+* Requests
+* schema validation
+* authentication
+* negative testing
+* API test architecture
+
+## Priority 3 — CI/CD
+
+Develop practical experience with:
+
+* GitHub Actions
+* automated test execution
+* test artifacts
+* reporting
+* pipeline integration
+
+## Priority 4 — SQL
+
+Develop working proficiency in:
+
+* SELECT
+* JOIN
+* GROUP BY
+* subqueries
+* data validation
+* test-data analysis
+
+## Priority 5 — Modern QA Architecture
+
+Demonstrate understanding of:
+
+* test framework architecture
+* fixtures
+* test data management
+* configuration
+* parallel execution
+* reporting
+* logging
+* API/UI separation
+
+## Priority 6 — Cloud
+
+Develop practical familiarity with:
+
+* Azure and/or AWS
+* cloud-based test execution
+* CI/CD integration
+
+---
+
+# 29. Portfolio Projects
+
+Potential public portfolio projects should demonstrate the Canadian-market skill set without exposing confidential MBition/Mercedes-Benz information.
+
+## Project 01 — Modern QA Automation Framework
+
+**Target Stack:**
+
+Python + Pytest + Playwright + REST API + GitHub Actions
+
+Demonstrate:
+
+* framework architecture
+* fixtures
+* test data
+* API testing
+* UI testing
+* parametrization
+* reporting
+* logging
+* CI/CD
+
+---
+
+## Project 02 — Automotive Verification Automation
+
+A sanitized/public demonstration inspired by automotive testing experience.
+
+Demonstrate:
+
+* Python
+* CAN/CANoe concepts
+* test automation
+* data processing
+* verification reporting
+
+No proprietary Mercedes-Benz data, configurations or intellectual property.
+
+---
+
+## Project 03 — QA Reporting / Test Intelligence
+
+Demonstrate:
+
+* Python
+* API/data ingestion
+* test-result processing
+* quality metrics
+* automated reporting
+* trend analysis
+
+---
+
+## Project 04 — API Automation Framework
+
+Demonstrate:
+
+* Python
+* Pytest
+* Requests
+* REST
+* authentication
+* schema validation
+* negative testing
+* reporting
+
+---
+
+## Project 05 — CI/CD QA Pipeline
+
+Integrate Project 01 with:
+
+* GitHub Actions
+* automated execution
+* test reporting
+* artifact publishing
+* failure visibility
+
+---
+
+# 30. Interview Evidence Bank
+
+Potential high-value interview stories:
+
+## Story 01 — Automation Impact
+
+**Topic:** Eliminating manual ECU flashing, coding and basic testing.
+
+Evidence:
+
+**~4 hours saved per ECU variant**
+
+---
+
+## Story 02 — Complex Engineering Problem
+
+**Topic:** Running 8 identical ECUs on one bench.
+
+Key concepts:
+
+* CANoe configuration
+* power control
+* relays
+* multi-ECU coordination
+* system architecture
+
+---
+
+## Story 03 — Finding a Hidden Defect
+
+**Topic:** CPU-core stress + high Ethernet traffic.
+
+Key concepts:
+
+* creative test design
+* system stress
+* failure discovery
+* reproducibility
+* defect investigation
+
+---
+
+## Story 04 — Process Improvement
+
+**Topic:** Improving verification planning and traceability.
+
+Key concepts:
+
+* visibility
+* planning
+* traceability
+* execution management
+* process ownership
+
+---
+
+## Story 05 — Leadership
+
+**Topic:** Leading and mentoring five engineers.
+
+Key concepts:
+
+* ownership
+* mentoring
+* prioritization
+* capacity
+* team development
+
+---
+
+## Story 06 — Capacity Management
+
+**Topic:** 50/30/20 framework.
+
+Key concepts:
+
+* balancing delivery and improvement
+* resource allocation
+* continuous improvement
+* high-priority response
+
+---
+
+## Story 07 — Reporting Automation
+
+**Topic:** 6 hours → 40 minutes.
+
+Key concepts:
+
+* Python
+* CANoe
+* data processing
+* management reporting
+* engineering efficiency
+
+---
+
+## Story 08 — Team Achievement
+
+**Topic:** DHARA.
+
+Important:
+
+Clearly distinguish **team achievement** from **personal contribution**.
+
+Personal responsibility must be documented before using this as a major individual achievement.
+
+---
+
+# 31. Canadian Resume Positioning
+
+## Primary Resume Identity
+
+**Senior QA Automation / Verification Engineer**
+
+## Secondary Descriptor
+
+**Technical Product Owner | Automotive Software | Python • CAPL • CANoe**
+
+## Core Keywords
+
+QA Automation
+Test Automation
+Quality Engineering
+Software Testing
+Verification
+Python
+CAPL
+CANoe
+Pytest
+API Testing
+REST
+HIL
+Embedded Systems
+Automotive Software
+ECU Testing
+Regression Testing
+System Testing
+Integration Testing
+Test Strategy
+Test Planning
+CI/CD
+Git
+Jira
+Agile
+SAFe
+Product Ownership
+Technical Leadership
+
+Only claim technologies as professional experience when evidence supports them. Development technologies should be clearly separated from established experience.
+
+---
+
+# 32. LinkedIn Positioning
+
+## Primary Headline
+
+**Senior QA Automation & Verification Engineer | Technical Product Owner | Python • CAPL • CANoe | Automotive Software | Technical Leadership**
+
+## Broader Software QA Alternative
+
+**QA Automation Engineer | Software Verification | Python • Test Automation • API | Technical Product Owner | Engineering Leadership**
+
+LinkedIn content should be generated from this master profile after the evidence extraction phase is complete.
+
+---
+
+# 33. Profile Development Rules
+
+Every future achievement should be captured using:
+
+> **Problem → Action → Technology → Scale → Result → Business Impact**
+
+Avoid weak statements such as:
+
+* "Responsible for testing."
+* "Worked on automation."
+* "Participated in projects."
+* "Worked with developers."
+* "Created test cases."
+
+Prefer evidence-based statements:
+
+> **Action + Technology + Scale + Result**
+
+Whenever possible, include:
+
+* time saved
+* percentage improvement
+* number of systems
+* number of ECUs
+* number of releases
+* number of engineers
+* number of test cases
+* execution time
+* coverage
+* defect impact
+* productivity improvement
+
+Never invent metrics.
+
+Unknown metrics are recorded as:
+
+`[TBD]`
+
+---
+
+# 34. Current Profile Assessment
+
+## Strongest Areas
+
+**★★★★★ Automotive Verification**
+**★★★★★ CANoe / CAPL**
+**★★★★★ Test Automation**
+**★★★★★ Systems Testing**
+**★★★★★ Technical Problem Solving**
+**★★★★☆ Team Leadership**
+**★★★★☆ Product Ownership**
+**★★★★☆ Process Improvement**
+**★★★★☆ Python**
+
+## Development Areas
+
+**★★☆☆☆ Modern Web Automation**
+**★★☆☆☆ CI/CD**
+**★★☆☆☆ SQL**
+**★★☆☆☆ Cloud**
+
+These areas should be addressed through demonstrable projects and hands-on evidence rather than certifications alone.
+
+---
+
+# 35. Master Career Thesis
+
+> **Senior QA Automation and Verification Engineer with 7+ years of experience in software quality and automotive embedded systems, combining hands-on automation expertise with technical leadership and Product Ownership. Experienced in Python, CAPL, CANoe, HIL and system-level verification, with demonstrated impact through automation, process improvement and complex engineering solutions. Has led and mentored five engineers while driving verification planning, quality visibility, release readiness and continuous improvement.**
+
+This statement is the current foundation.
+
+It will be refined as stronger quantitative evidence becomes available.
+
+---
+
+# 36. Open Evidence Collection
+
+The following information must be collected before finalizing the Canadian CV:
+
+* [TBD] Exact ECU variant count
+* [TBD] Total automated CANoe/CAPL functions
+* [TBD] Total automated test cases
+* [TBD] Total test cases handled
+* [TBD] Exact annual release count
+* [TBD] Total annual hours saved through automation
+* [TBD] Previous/current test execution duration
+* [TBD] Previous/current bench throughput
+* [TBD] Exact impact of 8-ECU implementation
+* [TBD] Exact details of CPU/Ethernet defect
+* [TBD] DHARA personal contribution
+* [TBD] Visteon achievements
+* [TBD] TESY achievements
+* [TBD] Specific Product Owner decisions and measurable outcomes
+* [TBD] Team-development outcomes
+* [TBD] Additional certifications/training
+* [TBD] Public portfolio projects
+* [TBD] CI/CD experience
+* [TBD] API automation experience
+* [TBD] SQL proficiency
+* [TBD] Playwright/Selenium experience
+
+---
+
+# 37. Document Hierarchy
+
+This document is the **single source of truth**.
+
+Other career documents must be derived from it:
+
+```text
+Master_Career_Profile.md
+        │
+        ├── Resume_CA.md
+        │     ├── QA Automation version
+        │     ├── SDET version
+        │     ├── Verification version
+        │     └── Technical Product Owner version
+        │
+        ├── LinkedIn.md
+        │
+        ├── Interview_Stories.md
+        │
+        └── Cover_Letters/
+```
+
+No major professional claim should appear in a downstream document unless it is supported by evidence in this master profile.
+
+---
+
+# 38. Version Control
+
+**Version:** 1.0 — Evidence Consolidation
+**Last major update:** August 2026
