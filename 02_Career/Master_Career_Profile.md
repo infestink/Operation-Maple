@@ -988,10 +988,6 @@ Graduated: 2018
 * ISTQB Certified Tester
 * SAFe 6 Scrum Master
 
-### Additional Training
-
-**[TBD]**
-
 ---
 
 # 26. Professional Strengths
@@ -1375,9 +1371,7 @@ Whenever possible, include:
 
 Never invent metrics.
 
-Unknown metrics are recorded as:
-
-`[TBD]`
+When a metric is unavailable, use the strongest defensible qualitative evidence instead. Do not create placeholders for unknown information.
 
 ---
 
