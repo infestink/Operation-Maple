@@ -263,12 +263,12 @@ Demonstrates:
 
 > Automated ECU flashing, variant coding and basic functionality validation, eliminating repetitive manual execution and saving approximately 4 hours per ECU variant across a multi-variant validation environment.
 
-### Additional Metrics
+### Scale
 
-* Exact number of ECU variants: Low, Mid, High and High++ computing power variants
-* Exact executions per release: **[TBD]**
-* Automated execution duration: **[TBD]**
-* Total annual hours saved: **[TBD]**
+* The automation is used across more than four ECU variants.
+* The activities are performed as part of the team's recurring release validation process.
+* The key measured impact is approximately 4 hours of manual effort saved per ECU variant.
+* The automation provides recurring efficiency gains across weekly release validation activities.
 
 ---
 
@@ -341,13 +341,12 @@ This was a first-of-its-kind capability within the team's environment.
 
 > Led the technical implementation enabling 8 identical ECUs to operate simultaneously on a single test bench, resolving complex CANoe configuration, relay-control and power-management challenges and increasing validation infrastructure capacity.
 
-### Metrics to Determine
+### Impact
 
-* Previous maximum ECUs per bench: **[TBD]**
-* Testing throughput improvement: **[TBD]**
-* Execution-time reduction: **[TBD]**
-* Implementation duration: **[TBD]**
-* Number of engineers involved: **[TBD]**
+* Enabled simultaneous operation of 8 identical ECUs on a single test bench.
+* Increased the capability and flexibility of the existing validation infrastructure.
+* Removed a significant limitation of the previous single-bench configuration.
+* Created a reusable multi-ECU testing capability for future validation activities.
 
 ---
 
@@ -385,12 +384,12 @@ Demonstrates:
 
 > Developed an advanced stress-testing approach combining core-level CPU load with high-volume Ethernet traffic, exposing previously undetected software stability issues under extreme system-load conditions.
 
-### Additional Evidence Required
+### Technical Impact
 
-* Exact failure mode: **[TBD]**
-* Whether defect was fixed: **[TBD]**
-* Reproducibility: **[TBD]**
-* Automated/reusable implementation: **[TBD]**
+* The approach combined individual CPU-core stress with high Ethernet traffic.
+* This exposed significant software instability that was not visible during standard functional testing.
+* The finding demonstrated the value of combining system-resource stress with communication-load testing when validating complex embedded software.
+* The exact internal failure mechanism and subsequent development actions are not included here because they are project-specific.
 
 ---
 
@@ -425,13 +424,6 @@ The team can better track:
 
 > Improved verification planning and execution processes by introducing greater visibility and traceability of testing requests, planned activities and execution status across the team.
 
-### Metrics
-
-* Number of requests/releases tracked: **[TBD]**
-* Tools used: **[TBD]**
-* Previous planning cycle: **[TBD]**
-* Current planning cycle: **[TBD]**
-
 ---
 
 # 11. Achievement 06 — DHARA End-to-End Testing Initiative
@@ -450,13 +442,12 @@ Dobromir is a contributor/responsible team member rather than the sole owner.
 
 > Core contributor to DHARA, an end-to-end verification initiative designed to enable single-click execution of complex testing workflows.
 
-### Evidence Required
+### Contribution
 
-* Personal technical responsibility: **[TBD]**
-* Technologies: **[TBD]**
-* Components personally implemented: **[TBD]**
-* Current automation scope: **[TBD]**
-* Current execution coverage: **[TBD]**
+* DHARA is a shared team achievement, not an individual achievement.
+* Dobromir contributes to the initiative as part of the verification team responsible for developing and advancing the end-to-end testing capability.
+* The initiative is intended to transform complex multi-step verification activities into a single-click end-to-end execution workflow.
+* Individual ownership should be described only for components directly attributable to Dobromir's work.
 
 ---
 
@@ -590,14 +581,14 @@ The objective is to create a team where engineers:
 * Process improvement
 * Team mentoring
 
-### Metrics to Establish
+### Leadership Scope
 
-* Leadership duration: **[TBD]**
-* Number of engineers mentored: **5**
-* Number progressed toward independent ownership: **[TBD]**
-* Number of code reviews: **[TBD]**
-* Number of onboarding activities: **[TBD]**
-
+* Directly led and/or mentored 5 engineers.
+* Responsible for coordinating technical ownership and team activities.
+* Supported engineers through mentoring, knowledge sharing and technical guidance.
+* Participated in team planning, prioritisation and workload allocation.
+* Supported continuous improvement of team capabilities and working practices.
+* Leadership responsibilities include balancing delivery, improvement and operational priorities.
 ---
 
 # 16. Product Ownership Experience
@@ -639,12 +630,14 @@ Repeatedly pushed for:
 * Traceability
 * Predictable execution
 
-### Evidence Required
+### Demonstrated Ownership
 
-* Specific KPI examples: **[TBD]**
-* Planning process before/after: **[TBD]**
-* Stakeholder groups: **[TBD]**
-* Decisions with measurable impact: **[TBD]**
+* Repeatedly drove the need for clear verification planning, targets and KPIs.
+* Improved visibility of requested, planned and executed verification activities.
+* Connected verification planning with release priorities and available team capacity.
+* Used structured capacity allocation to balance testing, improvement and operational priorities.
+* Worked across engineering and stakeholder groups to align verification activities with product and release needs.
+* Product Ownership responsibilities are primarily focused on verification, quality and delivery readiness.
 
 ---
 
@@ -798,46 +791,151 @@ MFA2 MOPF infotainment systems covering Mercedes-Benz compact-car platforms.
 
 ### Key Achievements
 
-**[TBD — achievements to be extracted]**
+* Performed system-level validation of automotive infotainment software for Mercedes-Benz compact-car platforms.
+* Worked across manual and automated validation activities.
+* Developed experience with automotive communication technologies including CAN, LIN and Ethernet.
+* Used Python and automotive testing tools to support validation activities and improve testing efficiency.
+* Built practical experience in defect identification, test execution, requirements-based validation and automotive software quality.
 
 ---
 
 # 22. Previous Experience — TESY Ltd.
 
 **Period:** September 2018 – May 2021
-
 **Role:** Automation Engineer
+**Domain:** Industrial Automation / Production Engineering
 
-**Domain:** Industrial Automation
+## Mission
 
-### Mission
+Design, implement, commission and troubleshoot industrial automation systems supporting production efficiency, reliability and process continuity.
 
-Design and implement industrial automation solutions improving production efficiency, reliability and operational stability.
+## Core Responsibilities
 
-### Responsibilities
+* PLC programming and machine-control logic.
+* Electrical cabinet design, wiring and troubleshooting.
+* Industrial robot integration.
+* Automated testing equipment.
+* Machine commissioning and production support.
+* Process automation and optimization.
+* Simulation and diagnostics.
+* Troubleshooting production-critical failures.
+* Collaboration with production and maintenance teams.
 
-* PLC programming
-* Commissioning
-* Simulation
-* Industrial machinery automation
-* Production optimization
-* Troubleshooting
-* Emergency diagnostics
+## Technologies
 
-### Technologies
+* Siemens LOGO! 8
+* Siemens PLC / TIA Portal
+* FANUC Robotics
+* Industrial automation
+* Electrical control systems
+* Sensors and actuators
+* Machine logic
+* Production-line integration
 
-* Siemens PLC
-* TIA Portal
-* WinCC
+---
 
-### Projects
+## Key Engineering Projects
 
-**[TBD — projects to be extracted]**
+### 1. Machine Electrical Cabinet & Control-System Recovery
 
-### Key Achievements
+A production machine became completely blocked following a short circuit that compromised its electrical/control system.
 
-**[TBD — achievements to be extracted]**
+Took responsibility for restoring the machine by:
 
+* Completely rewiring the electrical cabinet.
+* Re-establishing the machine's electrical architecture.
+* Designing and implementing the machine control logic from scratch on **Siemens LOGO! 8**.
+* Testing and commissioning the recovered system.
+* Troubleshooting the machine until production functionality was restored.
+
+### Engineering Value
+
+Demonstrates the ability to work from a failed production system and independently reconstruct both the electrical and control sides of the machine.
+
+**Key competencies:** Electrical Engineering • PLC Programming • Troubleshooting • Machine Control • Commissioning • Root-Cause Analysis
+
+---
+
+### 2. First FANUC Robot Integration into Production
+
+Implemented the first FANUC industrial robot in the production environment.
+
+### Problem
+
+The robot needed to transfer water heaters from one production line to another conveyor.
+
+The production process continuously moved water heaters through the line, meaning the line could not simply be stopped to allow the robot to pick and place each heater.
+
+### Solution
+
+Designed a synchronization approach between the production-line hooks and the robot so that the robot could coordinate its movement with the continuously moving production process.
+
+This required consideration of:
+
+* Conveyor movement.
+* Hook positioning.
+* Robot timing.
+* Product position.
+* Production-line synchronization.
+* Continuous operation constraints.
+
+### Result
+
+Successfully integrated the FANUC robot into the production process without requiring the production line to stop for product transfer.
+
+### Engineering Value
+
+This project demonstrates practical experience in:
+
+**Robotics + Automation + Motion Synchronization + Production Integration + Real-Time Process Constraints**
+
+---
+
+### 3. Automated Thermoregulator Testing Stand
+
+Designed and implemented a fully automated testing stand for thermoregulators.
+
+### Requirement
+
+When a new delivery of thermoregulators arrived, the objective was to automatically test a random sample of up to **12 units simultaneously** and perform as much validation as possible.
+
+### Solution
+
+Created an automated test system capable of:
+
+* Accepting up to 12 randomly selected thermoregulators.
+* Running automated test sequences.
+* Applying the required test conditions.
+* Monitoring the units during testing.
+* Determining test outcomes.
+* Reducing dependence on manual testing.
+
+### Result
+
+Created a repeatable automated testing process for incoming thermoregulators and increased the amount of testing that could be performed on each delivery.
+
+### Engineering Value
+
+This project demonstrates:
+
+* Automated test-system design.
+* Parallel testing.
+* Hardware/software integration.
+* Production-quality validation.
+* Test automation.
+* Engineering efficiency.
+
+---
+
+## Career Significance
+
+The TESY experience established the engineering foundation that later enabled progression into automotive software verification and test automation.
+
+The common thread across these projects was:
+
+> **Identify a production problem → understand the complete system → design an engineering solution → implement it → commission it → verify that it works in the real production environment.**
+
+This engineering mindset continues to influence the approach to software verification, automation and Product Ownership.
 ---
 
 # 23. Achievement Summary
@@ -875,29 +973,6 @@ Design and implement industrial automation solutions improving production effici
 * **~89% reduction** in reporting time
 * **8 identical ECUs** simultaneously enabled on a single test bench
 * **4+ ECU variants** involved in automation saving
-
-## Metrics Still Required
-
-* Total number of automated test cases/functions
-* Total number of test cases worked with
-* Exact ECU variant count
-* Annual number of release validations
-* Total annual engineering hours saved
-* Previous vs current test execution duration
-* Previous vs current bench throughput
-* Exact number of carlines
-* Exact number of ECUs supported
-* Number of automated Python tools/scripts
-* Number of CANoe/CAPL automation functions
-* Number of engineers mentored to independent ownership
-* Reporting consumers/stakeholders
-* Number of management reports generated
-* Number of test requests/releases tracked
-* DHARA automation coverage
-* Visteon achievements
-* TESY achievements
-
----
 
 # 25. Certifications & Education
 
