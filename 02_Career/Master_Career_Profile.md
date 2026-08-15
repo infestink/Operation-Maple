@@ -1079,72 +1079,19 @@ Does not accept inefficient processes as fixed constraints; actively redesigns t
 
 ---
 
-# 28. Canadian Market Development Gaps
-
-These are development areas, not weaknesses to hide.
-
-## Priority 1 — Modern Web Automation
-
-Develop demonstrable hands-on capability with:
-
-* Playwright
-* Pytest
-* Selenium
-* UI automation architecture
-
-## Priority 2 — API Automation
-
-Strengthen:
-
-* REST API testing
-* Requests
-* schema validation
-* authentication
-* negative testing
-* API test architecture
-
-## Priority 3 — CI/CD
-
-Develop practical experience with:
-
-* GitHub Actions
-* automated test execution
-* test artifacts
-* reporting
-* pipeline integration
-
-## Priority 4 — SQL
-
-Develop working proficiency in:
-
-* SELECT
-* JOIN
-* GROUP BY
-* subqueries
-* data validation
-* test-data analysis
-
-## Priority 5 — Modern QA Architecture
-
-Demonstrate understanding of:
-
-* test framework architecture
-* fixtures
-* test data management
-* configuration
-* parallel execution
-* reporting
-* logging
-* API/UI separation
-
-## Priority 6 — Cloud
-
-Develop practical familiarity with:
-
-* Azure and/or AWS
-* cloud-based test execution
-* CI/CD integration
-
+# 28. Canadian Market Development Priorities
+* Priority 1 — Modern Web Automation
+Develop demonstrable hands-on capability with Playwright, Pytest and Selenium.
+* Priority 2 — API Automation
+Strengthen practical REST API automation and validation using Python.
+* Priority 3 — CI/CD
+Build practical GitHub Actions experience integrating automated tests and reporting.
+* Priority 4 — SQL
+Develop practical SQL proficiency for test-data validation and analysis.
+* Priority 5 — Modern QA Architecture
+Demonstrate framework architecture, fixtures, test-data management, parallel execution, logging and reporting.
+* Priority 6 — Cloud
+Develop practical familiarity with Azure and/or AWS in the context of QA and CI/CD.
 ---
 
 # 29. Portfolio Projects
@@ -1469,35 +1416,7 @@ It will be refined as stronger quantitative evidence becomes available.
 
 ---
 
-# 36. Open Evidence Collection
-
-The following information must be collected before finalizing the Canadian CV:
-
-* [TBD] Exact ECU variant count
-* [TBD] Total automated CANoe/CAPL functions
-* [TBD] Total automated test cases
-* [TBD] Total test cases handled
-* [TBD] Exact annual release count
-* [TBD] Total annual hours saved through automation
-* [TBD] Previous/current test execution duration
-* [TBD] Previous/current bench throughput
-* [TBD] Exact impact of 8-ECU implementation
-* [TBD] Exact details of CPU/Ethernet defect
-* [TBD] DHARA personal contribution
-* [TBD] Visteon achievements
-* [TBD] TESY achievements
-* [TBD] Specific Product Owner decisions and measurable outcomes
-* [TBD] Team-development outcomes
-* [TBD] Additional certifications/training
-* [TBD] Public portfolio projects
-* [TBD] CI/CD experience
-* [TBD] API automation experience
-* [TBD] SQL proficiency
-* [TBD] Playwright/Selenium experience
-
----
-
-# 37. Document Hierarchy
+# 36. Document Hierarchy
 
 This document is the **single source of truth**.
 
@@ -1523,7 +1442,11 @@ No major professional claim should appear in a downstream document unless it is 
 
 ---
 
-# 38. Version Control
+# 37. Version Control
 
-**Version:** 1.0 — Evidence Consolidation
-**Last major update:** August 2026
+Version: 1.1 — Career Evidence Consolidation
+Status: Active Master Profile
+Last major update: August 2026
+
+This document represents the current verified professional profile and serves as the source of truth for Canadian CVs, LinkedIn positioning, interview preparation and job applications.
+The profile may be enhanced when new evidence, achievements, metrics, technologies or responsibilities become available.
