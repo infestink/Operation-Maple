@@ -823,6 +823,7 @@ Design, implement, commission and troubleshoot industrial automation systems sup
 
 ## Technologies
 
+* Siemens 1200
 * Siemens LOGO! 8
 * Siemens PLC / TIA Portal
 * FANUC Robotics
